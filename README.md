@@ -1,7 +1,5 @@
 # Compiler_Langauge_Go
-A new programming language is being introduced in the industry for young children. This is 
-being designed to introduce the basics of programming using a simpler version of GO 
-language. This progarm will design a parser for this language
+This progarm will design a parser for the language GO using Java.
 # Language Specification
 This programming language should have basic features to print data, read data, take input 
 from user perform arithmetic operations and compressions of value. Currently, it should 
@@ -27,6 +25,12 @@ and move to next line)
 12. Aassignment operator: :=
 13. Input operators: >>
 14. semi colon, colon, comma
+# Requirements
+Netbeans IDE
+
+# How to run
+Import the project in netbeans and simply run it
+
 # Interface
 1. This parser will have a main that asks for file name as input.
 2. First the leximal analyzer will run and generate the output of token and lexeme pair in output.txt
